@@ -64,6 +64,13 @@ ul{
     
 }
    
+.listebi img{
+    
+    height:90px;
+    width: 200px;
+    padding: 10px;
+  
+}
  
   .listebi a 
   {
@@ -84,7 +91,7 @@ ul{
   }
    .listebi ul li
    {
-    margin: 30px;
+    margin: 40px;
     display:flex;
  
    
@@ -92,6 +99,7 @@ ul{
    .listebi{
     display: flex;
     justify-content: center;
+    overflow: auto;
    }
   
   
